@@ -4,4 +4,6 @@
 
 
 
-A pico-8 raterizer. Perspective-correct interpolation but really, really slow :(
+A pico-8 raterizer.
+
+Featuring perspective-correct interpolation on texture but unacceptably slow :(
